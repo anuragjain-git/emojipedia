@@ -1,6 +1,8 @@
 # emojipedia
 Templates for emojipedia website. Want to create an emojipedia start with this.
 
+CHECK OUT THE PREVIEW AT : http://anuragjain-git.github.io/emojipedia
+
 You can create list of all the emojis and their description in this formate and store it in an array and you can use props to export it:
 
 {
